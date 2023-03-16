@@ -1,0 +1,3 @@
+G:/Asya/University/2 sem/Увод в алгоритмите/OOP_Traikov/Buildings/cmake-build-debug/CMakeFiles/Buildings.dir
+G:/Asya/University/2 sem/Увод в алгоритмите/OOP_Traikov/Buildings/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Asya/University/2 sem/Увод в алгоритмите/OOP_Traikov/Buildings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
