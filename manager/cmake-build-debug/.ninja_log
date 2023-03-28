@@ -1,0 +1,22 @@
+# ninja log v5
+51	579	7016925503695024	CMakeFiles/manager.dir/Employee.cpp.obj	60d566ab55415892
+0	716	7016925505155789	CMakeFiles/manager.dir/Manager.cpp.obj	8907bf16ec660875
+69	725	7016925505245791	CMakeFiles/manager.dir/Executive.cpp.obj	6fbe32762bfdc618
+41	726	7016925505255781	CMakeFiles/manager.dir/main.cpp.obj	ad2b70cb45f5921f
+726	900	7016925506926692	manager.exe	d9d1293deee29576
+12	479	7016928666461672	CMakeFiles/manager.dir/Employee.cpp.obj	60d566ab55415892
+16	615	7016928667805628	CMakeFiles/manager.dir/Executive.cpp.obj	6fbe32762bfdc618
+6	624	7016928667895755	CMakeFiles/manager.dir/Manager.cpp.obj	8907bf16ec660875
+624	801	7016928669625266	manager.exe	d9d1293deee29576
+2	238	7017044298015440	CMakeFiles/manager.dir/Employee.cpp.obj	60d566ab55415892
+238	306	7017044298674697	manager.exe	d9d1293deee29576
+2	252	7017045041940690	CMakeFiles/manager.dir/main.cpp.obj	ad2b70cb45f5921f
+1	263	7017045383602541	CMakeFiles/manager.dir/main.cpp.obj	ad2b70cb45f5921f
+2	231	7017045812237517	CMakeFiles/manager.dir/main.cpp.obj	ad2b70cb45f5921f
+231	296	7017045812857522	manager.exe	d9d1293deee29576
+2	245	7017045970181977	CMakeFiles/manager.dir/main.cpp.obj	ad2b70cb45f5921f
+245	314	7017045970791157	manager.exe	d9d1293deee29576
+1	204	7017046645262498	CMakeFiles/manager.dir/Employee.cpp.obj	60d566ab55415892
+205	287	7017046646052486	manager.exe	d9d1293deee29576
+1	178	7017050264255489	CMakeFiles/manager.dir/Employee.cpp.obj	60d566ab55415892
+178	237	7017050264805982	manager.exe	d9d1293deee29576
